@@ -8,6 +8,3 @@ https://y2fzdgxl.fubohd.com/eleven1_pt/mono.m3u8?token=9666c8e8987ab289df04d20ce
 
 #EXTINF:-1 , ESPN
 https://jf1.naqsheala.com:999/hls/do40.m3u8?md5=8zRcc6cVAnmOPrHMPWtNww&expires=1740431569
-
-#EXTINF:-1 , BEIN
-https://jf2.naqsheala.com:999/hls/extremohuawei.m3u8?md5=iVDRaYWzdan85V2ET4_abg&expires=1740432263
